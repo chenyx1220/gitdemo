@@ -10,6 +10,11 @@ public class ComboBoxItem {
 	private String name;
 	private CommPortIdentifier port;
 	
+	/**
+	 * 构造方法
+	 * @param name
+	 * @param port
+	 */
 	public ComboBoxItem(String name, CommPortIdentifier port) {
 		this.name = name;
 		this.port = port;
