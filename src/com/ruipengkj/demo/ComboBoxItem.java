@@ -9,7 +9,7 @@ public class ComboBoxItem {
 	
 	private String name;
 	private CommPortIdentifier port;
-	private String testNameB;
+	private String testNameC;
 	
 	/**
 	 * 构造方法
