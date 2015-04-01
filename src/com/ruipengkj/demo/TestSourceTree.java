@@ -2,10 +2,10 @@ package com.ruipengkj.demo;
 
 public class TestSourceTree {
 
-	private String mText2;
+	private String mText3;
 	
 	public String getMTest() {
-		return mText2;
+		return mText3;
 	}
 
 }
